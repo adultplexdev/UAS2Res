@@ -17,7 +17,7 @@
         "bundle"          :     "AdultDVDEmpire.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
         "description"     :     "Metadata agent for adult movies",
-        "repo"            :     "https://github.com/naguar/AdultDVDEmpire.bundle",
+        "repo"            :     "https://github.com/adultplexdev/AdultDVDEmpire.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
